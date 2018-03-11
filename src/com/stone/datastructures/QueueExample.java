@@ -1,4 +1,4 @@
-package com.stone;
+package com.stone.datastructures;
 
 import java.util.LinkedList;
 import java.util.Queue;
